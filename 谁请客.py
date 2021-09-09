@@ -9,5 +9,4 @@ for x in range(len(EBC_web)-1):
     print('It is not '+EBC_web[cola]+'.....')
     del EBC_web[cola]
     time.sleep(1)
-
 print('It is '+EBC_web[0])
